@@ -7,3 +7,4 @@ test1
 123
 456
 reboot
+1
